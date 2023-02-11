@@ -2,14 +2,15 @@
 ### Here you can find examples of projects I've done
 
 ___
+<br>
 
-How to reach me by other Apps:                                                            
+### How to reach me by other Apps:                                                            
 - Telegram: @skydiver8181                                                                 
 - Email: skydiver8181@gmail.com                                                           
 - [LinkedIn](https://www.linkedin.com/feed/)     
 <br>
 
-My primary interests:
+### My primary interests:
 - QA Automation
 - Python
 
